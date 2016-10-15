@@ -29,8 +29,8 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 #####    *Model UN
 #####    *Grease rehearsal
 #####    *dance
-#####-Fridays
-#####    *Grease Rehearsal
-#####    *nail Salon (get my nails done)
-#####    *Study for SAT/ACT
+-Fridays
+   *Grease Rehearsal
+   *nail Salon (get my nails done)
+   *Study for SAT/ACT
     
