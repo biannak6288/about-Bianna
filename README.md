@@ -6,14 +6,14 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 
 
 ####_My Everyday School Schedule_
-#####1. SEP11
-#####2. Honors English
-#####3. AP US History
-#####4. Yoga
-#####5. AP Calculus
-#####6. Physics
-#####7. Lunch
-#####8. Spanish 5
+#####1. SEP11 ..
+#####2. Honors English ..
+#####3. AP US History ..
+#####4. Yoga ..
+#####5. AP Calculus ..
+#####6. Physics ..
+#####7. Lunch ..
+#####8. Spanish 5 ..
 
 ####_AfterSchool Schedule:_
 #####-Mondays
@@ -29,7 +29,7 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 #####    *Model UN
 #####    *Grease rehearsal
 #####    *dance
--Fridays
+#####-Fridays
    *Grease Rehearsal
    *nail Salon (get my nails done)
    *Study for SAT/ACT
