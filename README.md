@@ -13,8 +13,10 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 #####5. AP Calculus
 #####6. Physics
 #####7. Lunch
-#####*LIBRARY
-    ######*I come here to do HW/study
-#####*cafeteria
-    ######*I sometimes come here if I need to buy snacks and if I have no HW
+-Library
+    -do HW
+    -Study
+-Cafeteria
+    -buy snacks
+    -hang out with friends
 #####8. Spanish 5
