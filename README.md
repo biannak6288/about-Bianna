@@ -16,20 +16,20 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 8. Spanish 5
 
 ####_AfterSchool Schedule_
--Mondays
+1.Mondays
     *Study for SAT/ACT
--Tuesdays
+2.Tuesdays
     *Model UN
     *Grease rehearsal
     *dance
--Wednesdays
+3.Wednesdays
     *peer tutoring
     *dance
--Thursdays
+4.Thursdays
     *Model UN
     *Grease rehearsal
     *dance
--Fridays
+5.Fridays
     *Grease Rehearsal
     *nail Salon (get my nails done)
     *Study for SAT/ACT
