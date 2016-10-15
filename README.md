@@ -30,7 +30,7 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
     * Grease rehearsal
     * dance
 * Fridays
-    * Grease ehearsal
+    * Grease rehearsal
     * nail Salon (get my nails done)
     * Study for SAT/ACT
     
