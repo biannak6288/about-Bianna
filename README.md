@@ -6,6 +6,7 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 
 
 ####_My Everyday School Schedule_  
+
 1. SEP11
 2. Honors English 
 3. AP US History 
@@ -16,6 +17,7 @@ Bianna Orielle Krubitski was born on the Upper Eastside in Manhattan, NY and to 
 8. Spanish 5
 
 ####_AfterSchool Schedule_  
+
 * Mondays
     * Study for SAT/ACT
 * Tuesdays
